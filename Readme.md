@@ -3,8 +3,8 @@
 This project includes two separate applications that work together to provide a secure and efficient way to authenticate clients and manage their data. The oauth-server is responsible for authenticating client applications, while the record-store-api serves as a client app that uses the OAuth server for authentication purposes.
 
 ## Overview
-**oauth-server**: This application is responsible for providing secure OAuth authentication for clients. It ensures that only authorized clients can access the protected resources of the record-store-api.
-**record-store-api**: This application serves as a client that utilizes the oauth-server for authentication. It is a fully functional API that allows clients to manage and access their record store data.
+- **oauth-server**: This application is responsible for providing secure OAuth authentication for clients. It ensures that only authorized clients can access the protected resources of the record-store-api.
+- **record-store-api**: This application serves as a client that utilizes the oauth-server for authentication. It is a fully functional API that allows clients to manage and access their record store data.
 
 ## Database Description
 
