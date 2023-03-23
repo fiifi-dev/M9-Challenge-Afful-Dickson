@@ -29,7 +29,7 @@ I have included the `Insomia.json` for the testing.
 
 
  ## Entra Dependencies
-NB: In order for the `record-store-app` to run with java 8, I added two extra dependencies:
+NB: In order for the `record-store-app` to run with @EnableAuthorizationServer and java 8, I added two extra dependencies:
 
 ```
 <dependency>
