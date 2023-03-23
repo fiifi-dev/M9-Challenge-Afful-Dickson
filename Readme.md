@@ -40,5 +40,6 @@ NB: In order for the `record-store-app` to run with java 8, I added two extra de
 - Run data.sql in DBeaver
 - Run oauth-server app first
 - Then Run record-store-api
+- import insomia.json into insomia and test endpoints
 
  
