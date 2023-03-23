@@ -10,17 +10,17 @@ record-store-api: for a client app that uses the the above for authenticating it
 
 ### Database Description
 
-user: root
-password: testpass123
-database: auth_server
+- user: root
+- password: testpass123
+- database: auth_server
 
 Feel free to change it to suit your database crendentials
 
 ### Note:
-I have included the Insomia.json for the testing.
+I have included the `Insomia.json` for the testing.
 
 ## Entra Dependencies
-NB: In order for the record-store-app to run with java 8, I added two extra dependencies:
+NB: In order for the `record-store-app` to run with java 8, I added two extra dependencies:
 
 ```
 <dependency>
